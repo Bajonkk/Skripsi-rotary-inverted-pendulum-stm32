@@ -1,0 +1,16 @@
+../Core/Src/main.c:126:7:wrap_angle_deg	3
+../Core/Src/main.c:132:7:filter	1
+../Core/Src/main.c:137:7:compute_derivative	1
+../Core/Src/main.c:142:7:compute_integral	5
+../Core/Src/main.c:162:6:HAL_UART_TxCpltCallback	2
+../Core/Src/main.c:168:6:send_uart_dma	1
+../Core/Src/main.c:177:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:200:5:main	26
+../Core/Src/main.c:402:6:SystemClock_Config	3
+../Core/Src/main.c:448:13:MX_TIM2_Init	3
+../Core/Src/main.c:497:13:MX_TIM3_Init	7
+../Core/Src/main.c:560:13:MX_TIM4_Init	3
+../Core/Src/main.c:609:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:640:13:MX_DMA_Init	1
+../Core/Src/main.c:658:13:MX_GPIO_Init	1
+../Core/Src/main.c:694:6:Error_Handler	1
